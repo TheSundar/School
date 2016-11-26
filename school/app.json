@@ -1,0 +1,8 @@
+{
+  "name": "School",
+  "description": "Performance Every Where",
+  "image": "heroku/python",
+  "repository": "https://github.com/TheSundar/School",
+  "keywords": ["python", "django" ],
+  "addons": [ "heroku-postgresql" ]
+}
